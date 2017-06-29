@@ -1,5 +1,9 @@
 # manage-this-node
 
+[![Build Status](https://drone.xataz.net/api/badges/xataz/docker-manage-this-node/status.svg)](https://drone.xataz.net/xataz/docker-manage-this-node)
+[![](https://images.microbadger.com/badges/image/xataz/manage-this-node.svg)](https://microbadger.com/images/xataz/manage-this-node "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/xataz/manage-this-node.svg)](https://microbadger.com/images/xataz/manage-this-node "Get your own version badge on microbadger.com")
+
 > This image is build and push with [drone.io](https://github.com/drone/drone), a circle-ci like self-hosted.
 > Automated build is disable in this repo.
 > If you don't trust, you can build yourself.
